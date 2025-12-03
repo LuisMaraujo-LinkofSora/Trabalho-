@@ -28,7 +28,7 @@ O convite inclui:
 ## 🚀 Como visualizar
 1. Clone ou baixe o repositório:
    ```bash
-   git clone https://github.com/usuario/nome-do-repositorio
+   https://github.com/LuisMaraujo-LinkofSora/Trabalho-
    ```
 2. Abra o arquivo **index.html** no navegador.
 3. Navegue usando o botão para acessar a página com mais detalhes.
@@ -36,41 +36,9 @@ O convite inclui:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5**
-- **CSS3**
-
-Nenhum framework ou biblioteca externa foi usada.
-
----
-
-## 🤝 Contribuições
-Sugestões e melhorias são muito bem-vindas!
-
-Para contribuir:
-1. Faça um fork do projeto
-2. Crie uma branch:
-   ```bash
-   git checkout -b minha-sugestao
-   ```
-3. Faça commit:
-   ```bash
-   git commit -m "Melhoria adicionada"
-   ```
-4. Envie a alteração:
-   ```bash
-   git push origin minha-sugestao
-   ```
-5. Abra um Pull Request
-
----
+- **HTML**
+- **CSS**
+  **JAVA**
 
 ## 📄 Licença
 Projeto livre para uso e modificação.
-
----
-
-## 📬 Contato
-Caso queira falar sobre o projeto ou tirar dúvidas, é só chamar!
-
----
-✨ **Obrigado por acessar o convite!**
